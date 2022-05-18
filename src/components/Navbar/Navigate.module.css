@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  align-items: baseline;
+  background-color: #810c35;
+  text-align: center;
+  color: #fff;
+  padding: 0 10px;
+  gap: 10px;
+}
+
+.shrink {
+  flex-grow: 1;
+}

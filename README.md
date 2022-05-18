@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/microverse-blueviolet)
 
-# COVID-19
+# COVID-19 React Redux APP
 
 For countries on all continents, see COVID-19 sufferers on one website! Select your country and keep track of daily and up-to-date information.
 
@@ -8,8 +8,11 @@ For countries on all continents, see COVID-19 sufferers on one website! Select y
 
 ## Built With
 
+- HTML
+- CSS
 - React
 - Redux
+- API
 
 ## Live demo
 
