@@ -16,7 +16,7 @@ For countries on all continents, see COVID-19 sufferers on one website! Select y
 
 ## Live demo
 
-[Live demo link]()
+[Live demo link](https://oybekkayumov-covid19.netlify.app/)
 
 ## Presentation
 
