@@ -1,6 +1,6 @@
 {
   "name": "m3-covid19",
-  "homepage": "https://OybekKayumov.github.io/m3-covid19",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
