@@ -20,7 +20,7 @@ For countries on all continents, see COVID-19 sufferers on one website! Select y
 
 ## Presentation
 
-[Presentation video]()
+[Presentation video](https://www.loom.com/share/311903f14ab543fdb754a07b45df2e27)
 
 ## Getting Started
 
