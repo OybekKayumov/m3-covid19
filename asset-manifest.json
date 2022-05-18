@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/m3-covid19/static/css/main.f142902b.css",
+    "main.js": "/m3-covid19/static/js/main.60ddd024.js",
+    "index.html": "/m3-covid19/index.html",
+    "main.f142902b.css.map": "/m3-covid19/static/css/main.f142902b.css.map",
+    "main.60ddd024.js.map": "/m3-covid19/static/js/main.60ddd024.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f142902b.css",
+    "static/js/main.60ddd024.js"
+  ]
+}
